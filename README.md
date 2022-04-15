@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Marina @CreatorN07031117
 - 👀 I'm interested in frontend development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can write to me on Telegram @creatorN07031117
+- 💞️You can write to me on Telegram @creatorN07031117
 
 <!---
 CreatorN07031117/CreatorN07031117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
