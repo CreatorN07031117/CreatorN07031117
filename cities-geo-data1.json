@@ -100,7 +100,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Киевский поселение"
+          "name": "Киевский"
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -215,7 +215,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Московский поселение"
+          "name": "МосковскийЭ",
         },
         "geometry": {
           "type": "Polygon",
