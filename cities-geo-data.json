@@ -215,7 +215,7 @@
       {
         "type": "Feature",
         "properties": {
-          "name": "Московский",
+          "name": "Московский"
         },
         "geometry": {
           "type": "Polygon",
