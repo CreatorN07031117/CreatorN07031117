@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marina @CreatorN07031117
-- 👀 I'm interested in frontend development
-- 🌱 I’m currently learning React
+- 👀 I'm frontend development
+- 🌱 I’m know React, Redux, TypeScript
 - 💞️You can write to me on Telegram @creatorN07031117
 
 <!---
