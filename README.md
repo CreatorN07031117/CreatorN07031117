@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Marina @CreatorN07031117
+- 👋 Hi, I’m Marina 
 - 👀 I'm frontend development
 - 🌱 I know React, Redux, TypeScript
-- 💞️You can write to me on Telegram @creatorN07031117
+- 💞️You can write to me on Telegram @devwitch
 
 <!---
 CreatorN07031117/CreatorN07031117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
